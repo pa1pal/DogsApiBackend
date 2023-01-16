@@ -1,5 +1,5 @@
 # DogsApiBackend
-Backend api for dogs breed and images
+Backend api for dogs breed and images - Using KTOR Framework
 
 ## Routing
 - GET /breeds = list all dogs breed
